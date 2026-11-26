@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hristos 👋
 
-<!--
-**R7Hrs/R7Hrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at UTM in Chisinau, Moldova. I like operating systems, the terminal, and fixing things when they break more than I like pushing pixels around.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Learning Spring Boot 
+- 🌱 Learning: C, Linux internals, more PostgreSQL
+- 🗣️ English (Cambridge C1), Romanian, learning Greek
+- 📫 Reach me: cebotarencohr@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+
+![Python](https://skillicons.dev/icons?i=python,c,postgres,linux,figma,photoshop,lightroom)
+
+## 📜 Certifications
+
+- Certiport Python
+- Certiport Networking
+- Certiport Databases
+- Cambridge C1 Advanced (English)
+
+## 📌 Featured projects
+
+Pinned below. Each one has its own README with screenshots and setup steps.
+
+## 📈 Activity
+
+![Hristos's GitHub stats](https://github-readme-stats.vercel.app/api?username=R7Hrs&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+*Open to internships and junior roles. Let's talk.*
