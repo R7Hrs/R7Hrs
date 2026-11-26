@@ -9,7 +9,7 @@ Software Engineering student at UTM in Chisinau, Moldova. I like operating syste
 
 ## 🛠️ Tech stack
 
-[![Python](https://skillicons.dev/icons?i=python,c,postgres,linux,figma,photoshop,lightroom)](https://skillicons.dev/icons?i=python,java,spring,c,postgres,linux,figma,photoshop,lightroom)
+![Tech stack](https://skillicons.dev/icons?i=python,java,spring,c,postgres,linux,figma,photoshop,lightroom)
 
 ## 📜 Certifications
 
